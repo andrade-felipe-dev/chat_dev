@@ -1,10 +1,8 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:chat/ui/chat_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() async {
   runApp(MyApp());
-
-  Firestore.instance.collection('mensagens').document('msg1').setData({'texto' : 'Olá', 'from' : 'Felipe', 'read' : false});
 }
 
 class MyApp extends StatelessWidget {
@@ -15,8 +13,11 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        iconTheme: IconThemeData(
+          color: Colors.blue
+        )
       ),
-      home: Container(),
+      home: ChatScreen(),
     );
   }
 }

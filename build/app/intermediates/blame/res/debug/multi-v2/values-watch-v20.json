@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/felipe/Documentos/flutter_projects/dev_chat/dev_chat/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/home/felipe/Documentos/flutter_projects/dev_chat/DevChat/chat_dev/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/home/felipe/.gradle/caches/transforms-2/files-2.1/2bdb773b0d8d7b824a9ff389c1bda749/jetified-play-services-auth-16.0.1/res/values-watch-v20/values.xml",

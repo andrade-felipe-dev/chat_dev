@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/felipe/Documentos/flutter_projects/dev_chat/dev_chat/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/felipe/Documentos/flutter_projects/dev_chat/DevChat/chat_dev/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/felipe/Documentos/flutter_projects/dev_chat/dev_chat/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/felipe/Documentos/flutter_projects/dev_chat/DevChat/chat_dev/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

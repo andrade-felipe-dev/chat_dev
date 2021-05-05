@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/felipe/Documentos/flutter_projects/dev_chat/dev_chat/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/felipe/Documentos/flutter_projects/dev_chat/DevChat/chat_dev/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/felipe/.gradle/caches/transforms-2/files-2.1/b6b4e9fb3ab9b2fdb54e2efa69cceb5b/jetified-play-services-basement-17.0.0/res/values/values.xml",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/home/felipe/Documentos/flutter_projects/dev_chat/dev_chat/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/felipe/Documentos/flutter_projects/dev_chat/DevChat/chat_dev/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -78,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "/home/felipe/Documentos/flutter_projects/dev_chat/dev_chat/build/app/generated/res/google-services/debug/values/values.xml",
+                    "source": "/home/felipe/Documentos/flutter_projects/dev_chat/DevChat/chat_dev/build/app/generated/res/google-services/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

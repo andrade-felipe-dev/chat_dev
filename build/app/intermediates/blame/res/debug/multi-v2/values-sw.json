@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/felipe/Documentos/flutter_projects/dev_chat/dev_chat/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
+            "outputFile": "/home/felipe/Documentos/flutter_projects/dev_chat/DevChat/chat_dev/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
             "map": [
                 {
                     "source": "/home/felipe/.gradle/caches/transforms-2/files-2.1/b6b4e9fb3ab9b2fdb54e2efa69cceb5b/jetified-play-services-basement-17.0.0/res/values-sw/values.xml",
