@@ -1,4 +1,4 @@
-#Fri May 07 07:53:03 BRT 2021
+#Mon May 10 07:06:54 BRT 2021
 base.2=/home/felipe/Documentos/flutter_projects/dev_chat/DevChat/chat_dev/build/app/intermediates/dex/debug/mergeDexDebug/out/classes3.dex
 path.2=classes3.dex
 base.1=/home/felipe/Documentos/flutter_projects/dev_chat/DevChat/chat_dev/build/app/intermediates/dex/debug/mergeDexDebug/out/classes2.dex
